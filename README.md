@@ -13,7 +13,7 @@ vous pouvez:
 # Moi 
 ## Franck Tiomela _Developpeur fullstack_ 
 
-* [Laravel](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Flaravel%2Fart%2Fmaster%2Flogo-lockup%2F5%2520SVG%2F2%2520CMYK%2F1%2520Full%2520Color%2Flaravel-logolockup-cmyk-red.svg&imgrefurl=https%3A%2F%2Fgithub.com%2Fsummerblue%2Flaravel-shop&tbnid=-QPe522iuiTxYM&vet=12ahUKEwiPicOahLDwAhWR_4UKHRxzCv8QMygEegUIARC-AQ..i&docid=wSoCIFF-3AlPfM&w=800&h=296&q=laravel%20image&ved=2ahUKEwiPicOahLDwAhWR_4UKHRxzCv8QMygEegUIARC-AQ)
+* Laravel ![logo laravel](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Flaravel%2Fart%2Fmaster%2Flogo-lockup%2F5%2520SVG%2F2%2520CMYK%2F1%2520Full%2520Color%2Flaravel-logolockup-cmyk-red.svg&imgrefurl=https%3A%2F%2Fgithub.com%2Fsummerblue%2Flaravel-shop&tbnid=-QPe522iuiTxYM&vet=12ahUKEwiPicOahLDwAhWR_4UKHRxzCv8QMygEegUIARC-AQ..i&docid=wSoCIFF-3AlPfM&w=800&h=296&q=laravel%20image&ved=2ahUKEwiPicOahLDwAhWR_4UKHRxzCv8QMygEegUIARC-AQ)
 * Vue Js 
 * Angular Js
 * ionic 
@@ -21,4 +21,4 @@ vous pouvez:
 * Vanilla JS
 * TypeScript
 
-=> [cliquer ici](https://github.com/franckDev21)
+=> [cliquer ici](https://github.com/franckDev)
