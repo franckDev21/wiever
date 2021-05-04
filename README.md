@@ -13,7 +13,7 @@ vous pouvez:
 # Moi 
 ## Franck Tiomela _Developpeur fullstack_ 
 
-* Laravel ![logo laravel](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Flaravel%2Fart%2Fmaster%2Flogo-lockup%2F5%2520SVG%2F2%2520CMYK%2F1%2520Full%2520Color%2Flaravel-logolockup-cmyk-red.svg&imgrefurl=https%3A%2F%2Fgithub.com%2Fsummerblue%2Flaravel-shop&tbnid=-QPe522iuiTxYM&vet=12ahUKEwiPicOahLDwAhWR_4UKHRxzCv8QMygEegUIARC-AQ..i&docid=wSoCIFF-3AlPfM&w=800&h=296&q=laravel%20image&ved=2ahUKEwiPicOahLDwAhWR_4UKHRxzCv8QMygEegUIARC-AQ)
+* Laravel ![logo laravel](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FLaravel&psig=AOvVaw3_6UtW2N0lr3TXRQkvivnj&ust=1620218206552000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjq3KCFsPACFQAAAAAdAAAAABAD)
 * Vue Js 
 * Angular Js
 * ionic 
